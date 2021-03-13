@@ -39,6 +39,11 @@ body {
     color: black;
 }
 
+/* Change color on current page */
+.current-page {
+  background-color: #ddd;
+  color: black !important;
+}
 /* Style the content */
 .content {
     margin-left: 200px;
